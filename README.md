@@ -1,4 +1,4 @@
-## 启动Amazon Machine assets/image实例Webarena
+## 启动Amazon Machine Image实例Webarena
 
 ### 页面初始化（账号注册后的控制台主页信息）
 ![Alt text](assets/image.png)
